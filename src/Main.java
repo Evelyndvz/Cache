@@ -12,6 +12,12 @@ public class Main {
         banco.add(new Pessoa(3, "Mariana Costa", 22));
         banco.add(new Pessoa(4, "João Pedro", 40));
         banco.add(new Pessoa(5, "Fernanda Lima", 28));
+        banco.add(new Pessoa(6,"Isis Ferreira",16));
+        banco.add(new Pessoa(7,"Evelyn",17));
+        banco.add(new Pessoa(8,"Bernadito",26));
+        banco.add(new Pessoa(9, "Natielie",17));
+        banco.add(new Pessoa(10,"Levi",90));
+
 
         Scanner scanner = new Scanner(System.in);
         IO.println("Digite o ID da pessoa: ");
